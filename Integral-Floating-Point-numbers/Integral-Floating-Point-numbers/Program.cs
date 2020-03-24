@@ -94,6 +94,17 @@ namespace Integral_Floating_Point_numbers
             decimal ccc = 1.0M;
             decimal ddd = 3.0M;
             Console.WriteLine($"{ccc} / {ddd} = {ccc / ddd}");
+            Console.WriteLine("");
+
+            //Challenge
+            Console.WriteLine("Challenge");
+            double radius = 2.50;
+            double area = radius * radius * Math.PI;
+
+            Console.WriteLine($"The area of a circle with {radius} radius is {area}");
+
+
+
 
 
 
