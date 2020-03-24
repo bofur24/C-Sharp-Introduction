@@ -20,6 +20,22 @@ namespace Integral_Floating_Point_numbers
 
             c = a / b; // / symbol for division
             Console.WriteLine($"{a} / {b} = {c} Division");
+
+            // order of operations
+
+            a = 5;
+            b = 4;
+            c = 2;
+            int d = a + b * c;
+            int e = (a + b) * c;
+            int f = (a + b) - 6 * c + (12 * 4) / 3 + 12;
+            int g = (a + b) / c;
+            Console.WriteLine($"{a} + {b} * {c} = {d}");
+            Console.WriteLine($"({a} + {b}) * {c} = {e}");
+            Console.WriteLine($"({a} + {b}) - 6 * {c} + (12 * 4) / 3 + 12 = {f}");
+            Console.WriteLine($"({a} + {b}) / {c} = {g}"); // you think the answer is 4.5 but it is just 4, you have to use a different type of data point.
+
+
         }
     }
 }
