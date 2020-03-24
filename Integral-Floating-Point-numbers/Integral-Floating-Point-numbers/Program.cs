@@ -59,6 +59,30 @@ namespace Integral_Floating_Point_numbers
 
             // Working with double type
 
+            double aa = 5;
+            double bb = 4;
+            double cc = 2;
+            double dd = (aa + bb) / cc;
+            Console.WriteLine("Working with double type");
+            Console.WriteLine($"({aa} + {bb}) / {cc} = {dd}");
+
+            aa = 19;
+            bb = 23;
+            cc = 8;
+            dd = (aa + bb) / cc;
+            Console.WriteLine($"({aa} + {bb}) / {cc} = {dd}");
+
+            double maxx = double.MaxValue;
+            double minn = double.MinValue;
+            Console.WriteLine($"The range of double is {minn} to {maxx}");
+
+            double third = 1.0 / 3.0;
+            Console.WriteLine($"1.0 / 3.0 = {third}");
+            Console.WriteLine("");
+
+            //Work with fixed point types
+
+
 
 
         }
