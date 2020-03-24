@@ -6,6 +6,7 @@ namespace Integral_Floating_Point_numbers
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Explore integer math");
             int a = 18; //int type represents an integer, a positive or negatice whole number
             int b = 6;
 
@@ -20,6 +21,7 @@ namespace Integral_Floating_Point_numbers
 
             c = a / b; // / symbol for division
             Console.WriteLine($"{a} / {b} = {c} Division");
+            Console.WriteLine("");
 
             // order of operations
 
@@ -30,10 +32,33 @@ namespace Integral_Floating_Point_numbers
             int e = (a + b) * c;
             int f = (a + b) - 6 * c + (12 * 4) / 3 + 12;
             int g = (a + b) / c;
+            Console.WriteLine("Order of operations");
             Console.WriteLine($"{a} + {b} * {c} = {d}");
             Console.WriteLine($"({a} + {b}) * {c} = {e}");
             Console.WriteLine($"({a} + {b}) - 6 * {c} + (12 * 4) / 3 + 12 = {f}");
             Console.WriteLine($"({a} + {b}) / {c} = {g}"); // you think the answer is 4.5 but it is just 4, you have to use a different type of data point.
+            Console.WriteLine("");
+
+
+            // Integer precision and limits
+
+            a = 7;
+            b = 4;
+            c = 3;
+            d = (a + b) / c;
+            e = (a + b) % c;
+            int max = int.MaxValue;
+            int min = int.MinValue;
+            int what = max + 3;
+            Console.WriteLine("Integer recision and limits");
+            Console.WriteLine($"({a} + {b}) / {c} = quotient: {d}");
+            Console.WriteLine($"({a} + {b}) % {c} = remainder: {e}");
+            Console.WriteLine($"The range of integers is {min} to {max}");
+            Console.WriteLine($"An example of overflow: {what}");
+            Console.WriteLine("");
+
+            // Working with double type
+
 
 
         }
