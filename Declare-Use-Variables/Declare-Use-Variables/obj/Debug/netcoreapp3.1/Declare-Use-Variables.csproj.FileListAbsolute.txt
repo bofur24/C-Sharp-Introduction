@@ -1,0 +1,13 @@
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\GitHub\C-Sharp\Declare-Use-Variables\Declare-Use-Variables\bin\Debug\netcoreapp3.1\Declare-Use-Variables.exe
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\GitHub\C-Sharp\Declare-Use-Variables\Declare-Use-Variables\bin\Debug\netcoreapp3.1\Declare-Use-Variables.deps.json
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\GitHub\C-Sharp\Declare-Use-Variables\Declare-Use-Variables\bin\Debug\netcoreapp3.1\Declare-Use-Variables.runtimeconfig.json
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\GitHub\C-Sharp\Declare-Use-Variables\Declare-Use-Variables\bin\Debug\netcoreapp3.1\Declare-Use-Variables.runtimeconfig.dev.json
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\GitHub\C-Sharp\Declare-Use-Variables\Declare-Use-Variables\bin\Debug\netcoreapp3.1\Declare-Use-Variables.dll
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\GitHub\C-Sharp\Declare-Use-Variables\Declare-Use-Variables\bin\Debug\netcoreapp3.1\Declare-Use-Variables.pdb
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\GitHub\C-Sharp\Declare-Use-Variables\Declare-Use-Variables\obj\Debug\netcoreapp3.1\Declare-Use-Variables.csprojAssemblyReference.cache
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\GitHub\C-Sharp\Declare-Use-Variables\Declare-Use-Variables\obj\Debug\netcoreapp3.1\Declare-Use-Variables.csproj.CoreCompileInputs.cache
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\GitHub\C-Sharp\Declare-Use-Variables\Declare-Use-Variables\obj\Debug\netcoreapp3.1\Declare-Use-Variables.AssemblyInfoInputs.cache
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\GitHub\C-Sharp\Declare-Use-Variables\Declare-Use-Variables\obj\Debug\netcoreapp3.1\Declare-Use-Variables.AssemblyInfo.cs
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\GitHub\C-Sharp\Declare-Use-Variables\Declare-Use-Variables\obj\Debug\netcoreapp3.1\Declare-Use-Variables.dll
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\GitHub\C-Sharp\Declare-Use-Variables\Declare-Use-Variables\obj\Debug\netcoreapp3.1\Declare-Use-Variables.pdb
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\GitHub\C-Sharp\Declare-Use-Variables\Declare-Use-Variables\obj\Debug\netcoreapp3.1\Declare-Use-Variables.genruntimeconfig.cache
