@@ -82,6 +82,19 @@ namespace Integral_Floating_Point_numbers
 
             //Work with fixed point types
 
+            decimal minnn = decimal.MinValue;
+            decimal maxxx = decimal.MaxValue;
+            Console.WriteLine("Working with fixed point types");
+            Console.WriteLine($"The range of the decimal type is {minnn} to {maxxx}");
+
+            double aaa = 1.0;
+            double bbb = 3.0;
+            Console.WriteLine($"{aaa} / {bbb} = {aaa / bbb}");
+
+            decimal ccc = 1.0M;
+            decimal ddd = 3.0M;
+            Console.WriteLine($"{ccc} / {ddd} = {ccc / ddd}");
+
 
 
 
