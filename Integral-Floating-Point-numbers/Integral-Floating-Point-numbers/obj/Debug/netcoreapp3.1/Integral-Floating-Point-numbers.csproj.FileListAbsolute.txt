@@ -1,0 +1,13 @@
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\GitHub\C-Sharp\Integral-Floating-Point-numbers\Integral-Floating-Point-numbers\bin\Debug\netcoreapp3.1\Integral-Floating-Point-numbers.exe
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\GitHub\C-Sharp\Integral-Floating-Point-numbers\Integral-Floating-Point-numbers\bin\Debug\netcoreapp3.1\Integral-Floating-Point-numbers.deps.json
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\GitHub\C-Sharp\Integral-Floating-Point-numbers\Integral-Floating-Point-numbers\bin\Debug\netcoreapp3.1\Integral-Floating-Point-numbers.runtimeconfig.json
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\GitHub\C-Sharp\Integral-Floating-Point-numbers\Integral-Floating-Point-numbers\bin\Debug\netcoreapp3.1\Integral-Floating-Point-numbers.runtimeconfig.dev.json
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\GitHub\C-Sharp\Integral-Floating-Point-numbers\Integral-Floating-Point-numbers\bin\Debug\netcoreapp3.1\Integral-Floating-Point-numbers.dll
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\GitHub\C-Sharp\Integral-Floating-Point-numbers\Integral-Floating-Point-numbers\bin\Debug\netcoreapp3.1\Integral-Floating-Point-numbers.pdb
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\GitHub\C-Sharp\Integral-Floating-Point-numbers\Integral-Floating-Point-numbers\obj\Debug\netcoreapp3.1\Integral-Floating-Point-numbers.csprojAssemblyReference.cache
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\GitHub\C-Sharp\Integral-Floating-Point-numbers\Integral-Floating-Point-numbers\obj\Debug\netcoreapp3.1\Integral-Floating-Point-numbers.csproj.CoreCompileInputs.cache
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\GitHub\C-Sharp\Integral-Floating-Point-numbers\Integral-Floating-Point-numbers\obj\Debug\netcoreapp3.1\Integral-Floating-Point-numbers.AssemblyInfoInputs.cache
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\GitHub\C-Sharp\Integral-Floating-Point-numbers\Integral-Floating-Point-numbers\obj\Debug\netcoreapp3.1\Integral-Floating-Point-numbers.AssemblyInfo.cs
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\GitHub\C-Sharp\Integral-Floating-Point-numbers\Integral-Floating-Point-numbers\obj\Debug\netcoreapp3.1\Integral-Floating-Point-numbers.dll
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\GitHub\C-Sharp\Integral-Floating-Point-numbers\Integral-Floating-Point-numbers\obj\Debug\netcoreapp3.1\Integral-Floating-Point-numbers.pdb
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\GitHub\C-Sharp\Integral-Floating-Point-numbers\Integral-Floating-Point-numbers\obj\Debug\netcoreapp3.1\Integral-Floating-Point-numbers.genruntimeconfig.cache
