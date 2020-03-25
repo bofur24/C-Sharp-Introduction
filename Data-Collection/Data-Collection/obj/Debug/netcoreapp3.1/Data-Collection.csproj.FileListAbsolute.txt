@@ -1,0 +1,13 @@
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\GitHub\C-Sharp\Data-Collection\Data-Collection\bin\Debug\netcoreapp3.1\Data-Collection.exe
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\GitHub\C-Sharp\Data-Collection\Data-Collection\bin\Debug\netcoreapp3.1\Data-Collection.deps.json
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\GitHub\C-Sharp\Data-Collection\Data-Collection\bin\Debug\netcoreapp3.1\Data-Collection.runtimeconfig.json
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\GitHub\C-Sharp\Data-Collection\Data-Collection\bin\Debug\netcoreapp3.1\Data-Collection.runtimeconfig.dev.json
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\GitHub\C-Sharp\Data-Collection\Data-Collection\bin\Debug\netcoreapp3.1\Data-Collection.dll
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\GitHub\C-Sharp\Data-Collection\Data-Collection\bin\Debug\netcoreapp3.1\Data-Collection.pdb
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\GitHub\C-Sharp\Data-Collection\Data-Collection\obj\Debug\netcoreapp3.1\Data-Collection.csprojAssemblyReference.cache
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\GitHub\C-Sharp\Data-Collection\Data-Collection\obj\Debug\netcoreapp3.1\Data-Collection.csproj.CoreCompileInputs.cache
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\GitHub\C-Sharp\Data-Collection\Data-Collection\obj\Debug\netcoreapp3.1\Data-Collection.AssemblyInfoInputs.cache
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\GitHub\C-Sharp\Data-Collection\Data-Collection\obj\Debug\netcoreapp3.1\Data-Collection.AssemblyInfo.cs
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\GitHub\C-Sharp\Data-Collection\Data-Collection\obj\Debug\netcoreapp3.1\Data-Collection.dll
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\GitHub\C-Sharp\Data-Collection\Data-Collection\obj\Debug\netcoreapp3.1\Data-Collection.pdb
+C:\Users\HeffingtonKL\OneDrive\Files\Programming\GitHub\C-Sharp\Data-Collection\Data-Collection\obj\Debug\netcoreapp3.1\Data-Collection.genruntimeconfig.cache
