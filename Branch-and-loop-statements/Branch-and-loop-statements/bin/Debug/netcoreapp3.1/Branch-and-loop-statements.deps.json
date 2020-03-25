@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Branch-and-loop-statements/1.0.0": {
+        "runtime": {
+          "Branch-and-loop-statements.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Branch-and-loop-statements/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
