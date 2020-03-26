@@ -71,6 +71,21 @@ namespace Data_Collection
             {
                 Console.WriteLine(item);
             }
+
+            // Challenge
+
+            var fibonacciChallenge = new List<int> { 1, 1 };
+
+            while (fibonacciChallenge.Count < 20)
+            {
+                var previous3 = fibonacciChallenge[fibonacciChallenge.Count - 1];
+                var previous4 = fibonacciChallenge[fibonacciChallenge.Count - 2];
+
+                fibonacciChallenge.Add(previous3 + previous4);
+            }
+
+            foreach (var test in fibonacciChallenge)
+                Console.WriteLine(test);
         }
     }
 }
