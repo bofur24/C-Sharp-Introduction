@@ -19,6 +19,7 @@ namespace Data_Collection
 
             // Modify List Contents
 
+            Console.WriteLine("Modify List Contents");
             Console.WriteLine();
             names.Add("Maria");
             names.Add("Bill");
@@ -33,6 +34,28 @@ namespace Data_Collection
             Console.WriteLine("");
 
             Console.WriteLine($"The list has {names.Count} people in it.");
+            Console.WriteLine("");
+
+            // Search and sort lists
+
+            Console.WriteLine("Search and sort lists");
+
+            var index = names.IndexOf("Felipe");
+            if (index != -1)
+            {
+                Console.WriteLine($"The name {names[index]} is at index {index}");
+
+            }
+
+            var notFound = names.IndexOf("Not Found");
+            Console.WriteLine($"When an item is not found, IndexOf returns {notFound}");
+            Console.WriteLine("");
+
+            names.Sort();
+            foreach (var name in names)
+            {
+                Console.WriteLine($"Hello {name.ToUpper()}!");
+            }
         }
     }
 }
